@@ -49,7 +49,8 @@ Installation & Usage
 Author
 ------
 
-James Turnbull <james@lovedthanlost.net>
+Original Author: James Turnbull <james@lovedthanlost.net>
+Updated by: Ben Fox <ben@nullfox.com>
 
 License
 -------

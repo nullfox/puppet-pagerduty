@@ -1,10 +1,10 @@
 name 'puppet-pagerduty'
 version '0.0.1'
-source 'git://github.com/jamtur01/puppet-pagerduty.git'
-author 'James Turnbull'
+source 'git://github.com/nullfox/puppet-pagerduty.git'
+author 'Ben Fox'
 license 'Apache 2.0'
 summary 'A Puppet report processor for sending alerts to Pagerduty.'
-project_page 'https://github.com/jamtur01/puppet-pagerduty'
+project_page 'https://github.com/nullfox/puppet-pagerduty'
 description 'A Puppet report processor for sending alerts to Pagerduty.'
 
 ## Add dependencies, if any:
